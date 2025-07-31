@@ -1,1 +1,1 @@
-使用qt软件打开
+使用qt软件打开tcp.pro进行构建此tcp为服务端，另外打开tcpslient项目下cpslient.pro也进行构建，tcpslient为客户端，两个编译后tcp监听，tcpslient 链接服务器。来完成相应的短信收发
